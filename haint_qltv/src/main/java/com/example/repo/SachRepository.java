@@ -1,4 +1,4 @@
-package com.example.dto.repo;
+package com.example.repo;
 
 import com.example.entity.Sach;
 import org.springframework.data.jpa.repository.JpaRepository;

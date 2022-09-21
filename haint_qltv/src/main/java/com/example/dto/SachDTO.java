@@ -1,3 +1,4 @@
+package com.example.dto;
 
 public class SachDTO {
     private Integer id;
